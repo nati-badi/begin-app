@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!-- Change the app name here (one place). -->
-    <string name="app_name">Begin</string>
-    <string name="open_app">↗</string>
-    <string name="widget_desc">One message to help you begin. Resize it to any size you like.</string>
-</resources>
